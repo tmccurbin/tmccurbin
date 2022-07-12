@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-- 💻 I’m a developer for CIV Team
+I’m a developer for CIV Team
